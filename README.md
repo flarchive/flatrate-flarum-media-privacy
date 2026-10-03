@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of flatrate/flarum-media-privacy.** Not for installation: use [Packagist](https://packagist.org/packages/flatrate/flarum-media-privacy) or the [upstream repository](https://github.com/mrkcntrmn/flatrate-flarum-media-privacy).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/flatrate-flarum-media-privacy/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.8.19`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/flatrate-flarum-media-privacy/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.8.19`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-08 | `^1.8.19` | [Browse](https://github.com/flarchive/flatrate-flarum-media-privacy/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/flatrate-flarum-media-privacy.json](https://github.com/flarchive/archive-index/blob/main/packages/flatrate-flarum-media-privacy.json)
 
